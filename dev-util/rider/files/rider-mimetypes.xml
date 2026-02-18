@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+	<mime-type type="application/x-visual-studio-solution">
+		<comment>Visual Studio Solution</comment>
+		<glob pattern="*.sln"/>
+		<icon name="rider"/>
+	</mime-type>
+	<mime-type type="application/x-msbuild-project">
+		<comment>MSBuild Project File</comment>
+		<sub-class-of type="text/xml"/>
+		<glob pattern="*.csproj"/>
+		<glob pattern="*.vbproj"/>
+		<glob pattern="*.fsproj"/>
+		<icon name="rider"/>
+	</mime-type>
+</mime-info>
