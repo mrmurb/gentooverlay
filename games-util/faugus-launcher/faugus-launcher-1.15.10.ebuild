@@ -23,7 +23,6 @@ RDEPEND="
 		>=dev-python/pygobject-3.50.1[${PYTHON_USEDEP}]
 		>=dev-python/requests-2.32.5[${PYTHON_USEDEP}]
 		>=dev-python/pillow-11.3.0[${PYTHON_USEDEP}]
-		>=dev-python/filelock-3.20.0[${PYTHON_USEDEP}]
 		>=dev-python/vdf-4.0[${PYTHON_USEDEP}]
 		>=dev-python/psutil-7.1.0[${PYTHON_USEDEP}]
 		>=dev-python/icoextract-0.2.0[${PYTHON_USEDEP}]
